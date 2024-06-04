@@ -3,7 +3,7 @@
 👋 Hi, I'm Noah AL Samawi!
 
 🌍 Stockholm, Sweden <br>
-🌐 [GitHub]([https://github.com/SandraBergstrom](https://github.com/Noah-Samawi) <br>
+🌐 [GitHub](https://github.com/Noah-Samawi) <br>
 🔗 [LinkedIn](www.linkedin.com/in/noah-al-samawi-058583197) <br>
 
 ## Introduction
