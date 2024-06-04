@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Noah AL Samawi!
 
-🌍 Stockholm, Sweden <br>
+🌍 Frankfurt am Main, Germany <br>
 🌐 [GitHub](https://github.com/Noah-Samawi) <br>
 🔗 [LinkedIn](https://linkedin.com/in/noah-al-samawi-058583197) <br>
 
