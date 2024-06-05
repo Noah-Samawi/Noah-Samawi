@@ -40,7 +40,7 @@ Flask, Bootstrap, Django, Django REST, jQuery, React
 PostgreSQL
 
 ### Developer Tools:
-Perforce, GitHub, Git, Github Co-Pilot, Visual Studio Code, Npm, Pip
+GitHub, Git, Github Co-Pilot, Visual Studio Code
 
 ### Version Control
 GitHub, Git, Perforce
