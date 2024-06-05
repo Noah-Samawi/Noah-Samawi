@@ -8,7 +8,7 @@
 
 ## Introduction
 
-Blending 10 years of experience in IT Support, Facility Management, and Gastronomy with a new diploma in Full Stack Development, I now possess a comprehensive understanding of these areas as well as fresh coding skills. Transitioning from roles in IT Support at DXC and Facility Administration at CBRE to delving into coding has equipped me with a unique skill set where aesthetics intersect with functionality in web development. Committed to continuous learning, I am venturing into the tech industry with a keen eye for detail, striving to create digital experiences that are not only visually appealing but also seamless.
+Blending 8 years of experience in IT Support, Facility Management, and Gastronomy with a new diploma in Full Stack Development, I now possess a comprehensive understanding of these areas as well as fresh coding skills. Transitioning from roles in IT Support at DXC and Facility Administration at CBRE to delving into coding has equipped me with a unique skill set where aesthetics intersect with functionality in web development. Committed to continuous learning, I am venturing into the tech industry with a keen eye for detail, striving to create digital experiences that are not only visually appealing but also seamless.
 
 ## Achievements & Awards
 
