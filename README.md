@@ -20,9 +20,15 @@ Blending 8 years of experience in IT Support, Facility Management, and Gastronom
   - Portfolio Projct 4 | February 2024
   - The web application is a site or platform to engage with security features, explore applications, and follow security experts.
 
-- 🏆 [**pp3-BattleshipsGame (Python)**:](https://retro-mashup-mayhem.netlify.app/)
+- 🏆 [**pp3-BattleshipsGame (Python)**:](https://pp3-battleships-game-383fd48f9c85.herokuapp.com/)
   - March 2023
   - Battleships is a game of logic, with players attempting to sink each others fleet by guessing co-ordinates. This version uses a a board generated using Python lists and incorporates a logic engine to allow the computer to fire back at the user.
+  - 
+- 🏆 [**PP2-Pokémon Cards-Match ( HTML, CSS and JavaScript)**:](https://github.com/Noah-Samawi/Pokemon-Cards-Match-pp2)
+  - This is a simple web-based card-matching game featuring Pokémon cards.
+    
+- 🏆 [**PP1-Waeder Predictive Analytics ( HTML, CSS)**:](https://github.com/Noah-Samawi/MyProject1-HTML-CSS)
+  - The aim of this website is to provide services to other companies in the field of predictive analytics.
 
 ## Upcoming Activities & JUNIOR FULL STACK SOFTWARE DEVELOPER
 
