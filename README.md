@@ -16,8 +16,9 @@ Blending 8 years of experience in IT Support, Facility Management, and Gastronom
   - Final Project: Diploma in Full-Stack Software Development | June 2024
   - I focused on both frontend and backend development, utilizing Figma for wireframing and coding with HTML, CSS, JavaScript, React, Bootstrap on the frontend. Additionally, I used Python and Django template tags and expressions for dynamic functionality on the backend.
 
-- 🏆 [**pp4-Web-Application-Security (HTML, CSS, Python and Javascript)**:](https://pp4-web-application-security-aaef0fe6b0f0.herokuapp.com/)
+- 🏆 [**pp4-Web-Application-Security (HTML, CSS with Bootstrap, Python, Django, JavaScript, and Postgres DB)**:](https://pp4-web-application-security-aaef0fe6b0f0.herokuapp.com/)
   - Portfolio Projct 4 | February 2024
+  - The web application is a site or platform to engage with security features, explore applications, and follow security experts.
 
 - 🏆 [**pp3-BattleshipsGame (Python)**:](https://retro-mashup-mayhem.netlify.app/)
   - March 2023
