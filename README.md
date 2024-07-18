@@ -8,7 +8,7 @@
 
 ## Introduction
 
-Blending 8 years of experience in IT Support, Facility Management, and Gastronomy with a new diploma in Full Stack Development, I now possess a comprehensive understanding of these areas as well as fresh coding skills. Transitioning from roles in IT Support at DXC and Facility Administration at CBRE to delving into coding has equipped me with a unique skill set where aesthetics intersect with functionality in web development. Committed to continuous learning, I am venturing into the tech industry with a keen eye for detail, striving to create digital experiences that are not only visually appealing but also seamless.
+Junior Software Developer with Bachelor’s degree in Computer science and a Diploma in Full Stack Software Development from the Code Institute. Proficient in HTML, CSS, JavaScript, and Python. With 8 years of experience in IT Helpdesk, Technical Maintenance and Hospitality. I am a valuble team-player with strong communication skills and effective problem-solving ablitity. Eager to transition into the tech industry, I am seeking an opportunity to join an exciting development team where I can both develop my skills and make meaningful contributions.
 
 ## Achievements & Awards
 
