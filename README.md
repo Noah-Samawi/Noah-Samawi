@@ -1,6 +1,6 @@
 ### Hi there, I'm Noah 👋 
 
-## A full stack developer based in Frankfur a.M Germany.
+### A full stack developer based in Frankfur a.M Germany.
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noah-al-samawi-058583197)
 [![XING](https://img.shields.io/badge/-XING-%23232323?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Noah_AlSamawi/web_profiles)
