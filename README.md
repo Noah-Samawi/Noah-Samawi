@@ -2,7 +2,8 @@
 
 ## A full stack developer based in Frankfur a.M Germany.
 
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https:www.linkedin.com/in/noah-al-samawi-058583197) | [![XING](https://img.shields.io/badge/-MY%20XING-%23232323?style=flat-square&logo=website&logoColor=white)]([https://your-website.com](https://www.xing.com/profile/Noah_AlSamawi/web_profiles)) |---|---|
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https:www.linkedin.com/in/noah-al-samawi-058583197) | [![XING](https://img.shields.io/badge/-MY%20XING-%23232323?style=flat-square&logo=website&logoColor=white)]([https://your-website.com](https://www.xing.com/profile/Noah_AlSamawi/web_profiles)) 
+|---|---|
 
 
 🌍 Frankfurt am Main, Germany <br>
