@@ -1,6 +1,11 @@
 # About Me
 
-👋 Hi, I'm Noah AL Samawi!
+### Hi there, I'm Noah 👋 
+
+## A full stack developer based in Frankfur a.M Germany.
+| [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile) | [![Website](https://img.shields.io/badge/-MY%20WEBSITE-%23232323?style=flat-square&logo=website&logoColor=white)](https://your-website.com) | [![GitHub](https://img.shields.io/badge/-MY%20REPOS-%23F05F1F?style=flat-square&logo=github&logoColor=white)](https://github.com/your-github-username) |
+|---|---|---|
+
 
 🌍 Frankfurt am Main, Germany <br>
 🌐 [GitHub](https://github.com/Noah-Samawi) <br>
