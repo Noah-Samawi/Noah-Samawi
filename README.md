@@ -13,8 +13,6 @@
 
 
 
-
-## Introduction
 Junior Software Developer with Bachelor’s degree in Computer science and a Diploma in Full Stack Software Development from the Code Institute. Proficient in HTML, CSS, JavaScript, and Python. With 8 years of experience in IT Helpdesk, Technical Maintenance and Hospitality. I am a valuble team-player with strong communication skills and effective problem-solving ablitity. Eager to transition into the tech industry, I am seeking an opportunity to join an exciting development team where I can both develop my skills and make meaningful contributions.
 
 ## Achievements & Awards
