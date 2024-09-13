@@ -6,9 +6,15 @@
 [![XING](https://img.shields.io/badge/-XING-%23232323?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Noah_AlSamawi/web_profiles)
 [![GitHub](https://img.shields.io/badge/-GITHUB-%23F05F1F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Noah-Samawi)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noah-Samawi)](https://github.com/Noah-Samawi/github-readme-stats)
-## Introduction
+## GitHub Stats
 
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Noah-Samawi&show_icons=true"/>
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noah-Samawi&layout=compact"/>
+
+
+
+
+## Introduction
 Junior Software Developer with Bachelor’s degree in Computer science and a Diploma in Full Stack Software Development from the Code Institute. Proficient in HTML, CSS, JavaScript, and Python. With 8 years of experience in IT Helpdesk, Technical Maintenance and Hospitality. I am a valuble team-player with strong communication skills and effective problem-solving ablitity. Eager to transition into the tech industry, I am seeking an opportunity to join an exciting development team where I can both develop my skills and make meaningful contributions.
 
 ## Achievements & Awards
