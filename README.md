@@ -10,7 +10,7 @@
 
 👯 I’m looking to collaborate on full-stack projects.
 
-📫 How to reach me: noah.alsamawi@hotmail.com
+📫 How to reach me: noah.alsamawi@gmail.com
 
 ⚡ Fun fact: I'm an amazing saxophone player!
 
