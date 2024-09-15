@@ -2,6 +2,23 @@
 
 ### A Full Stack Developer based in Frankfurt a.M., Germany.
 
+---
+
+🔭 I’m currently working on my portfolio website.
+
+🌱 I’m learning about AI.
+
+👯 I’m looking to collaborate on full-stack projects.
+
+📫 How to reach me: noah.alsamawi@hotmail.com
+
+⚡ Fun fact: I'm an amazing saxophone player!
+
+
+---
+
+### Connect with me:
+
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noah-al-samawi-058583197)
 [![XING](https://img.shields.io/badge/-XING-%23232323?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Noah_AlSamawi/web_profiles)
 [![GitHub](https://img.shields.io/badge/-GITHUB-%23F05F1F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Noah-Samawi)
@@ -70,5 +87,3 @@
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![macOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/)
 [![Windows](https://img.shields.io/badge/-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows/)
-
----
