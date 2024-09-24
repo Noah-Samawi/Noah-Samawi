@@ -12,9 +12,6 @@
 
 📫 How to reach me: noah.alsamawi@gmail.com
 
-⚡ Fun fact: I'm an amazing saxophone player!
-
-
 ---
 
 ### Connect with me:
