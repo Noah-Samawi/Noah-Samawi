@@ -8,7 +8,7 @@
 
 🌱 I’m learning about AI.
 
-👯 I’m looking to collaborate on full-stack projects.
+🤝 I’m looking to collaborate on full-stack projects.
 
 📫 How to reach me: noah.alsamawi@gmail.com
 
