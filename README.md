@@ -4,7 +4,7 @@
 
 ---
 
-🔭 I’m currently working on my portfolio website.
+🔭I’m currently refreshing my knowledge in Data Structures and Algorithms to enhance my problem-solving skills.
 
 🌱 I’m learning about AI.
 
