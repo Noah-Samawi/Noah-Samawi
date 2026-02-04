@@ -10,7 +10,7 @@
 
 🤝 I’m looking to collaborate on full-stack projects.
 
-📫 How to reach me: noah.alsamawi@gmail.com
+📫 How to reach me: https://www.noahsamawi.de/  noah.alsamawi@gmail.com
 
 ---
 
